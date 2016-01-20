@@ -1,0 +1,18 @@
+.project
+.idea
+.gradle
+.settings
+.DS_Store
+.classpath
+*.iml
+*.ipr
+*.iws
+build/
+generated/
+*.MF
+## for front-end ##
+node_modules/
+
+.nb-gradle
+.MF
+classes/
